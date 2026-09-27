@@ -1,0 +1,124 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/LXtR6bK9/pant.jpg",
+    "player_name": "Rishabh Pant",
+    "player_country": "India",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 801,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 27
+  },
+  {
+    "player_image": "https://i.ibb.co.com/XrFcJb6p/iyer.jpg",
+    "player_name": "Shreyas Iyer",
+    "player_country": "India",
+    "playing_role": "Top-order Batter",
+    "rating": 720,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 26
+  },
+  {
+    "player_image": "https://i.ibb.co.com/tMXy64xx/veni.webp",
+    "player_name": "Venkatesh Iyer",
+    "player_country": "India",
+    "playing_role": "All-rounder",
+    "rating": 685,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 23
+  },
+  {
+    "player_image": "https://i.ibb.co.com/SwHdS2N0/klaseen.jpg",
+    "player_name": "Heinrich Klaasen",
+    "player_country": "South Africa",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 782,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 23
+
+  },
+  {
+    "player_image": "https://i.ibb.co.com/FqCPLLDt/virat.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "playing_role": "Top-order Batter",
+    "rating": 775,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 21
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5gzKN9K5/pooran.jpg",
+    "player_name": "Nicholas Pooran",
+    "player_country": "West Indies",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 760,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 21
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5xjPRndb/chahal.jpg",
+    "player_name": "Yuzvendra Chahal",
+    "player_country": "India",
+    "playing_role": "Bowler",
+    "rating": 710,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 18
+  },
+  {
+    "player_image": "https://i.ibb.co.com/4RTtj5Z7/rashid.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "Bowling All-rounder",
+    "rating": 735,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 18
+  },
+  {
+    "player_image": "https://i.ibb.co.com/W4GyydR0/bumrah.jpg",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "playing_role": "Bowler",
+    "rating": 851,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 18
+  },
+  {
+    "player_image": "https://i.ibb.co.com/XZnd1w11/jadeja.jpg",
+    "player_name": "Ravindra Jadeja",
+    "player_country": "India",
+    "playing_role": "All-rounder",
+    "rating": 740,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": 18
+  },
+  {
+    "player_image": "https://i.ibb.co.com/mCYTYNqN/pat.jpg",
+    "player_name": "Pat Cummins",
+    "player_country": "Australia",
+    "playing_role": "Bowling All-rounder",
+    "rating": 725,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 18
+  },
+  {
+    "player_image": "https://i.ibb.co.com/YBNNkpjv/jos.jpg",
+    "player_name": "Jos Buttler",
+    "player_country": "England",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 790,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "None",
+    "price": 15
+  }
+]
+
